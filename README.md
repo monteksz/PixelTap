@@ -1,5 +1,5 @@
 <h1 align="center">Auto Claim PixelTap by Pixelverse (DWYOR)</h1>
-<h3 align="center">How To Use</h3>
+<h3 align="center">How To Use (DWYOR)</h3>
 
 - https://t.me/pixelversexyzbot Start The Bot
 
