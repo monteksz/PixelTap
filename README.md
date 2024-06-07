@@ -13,8 +13,6 @@
 
 - Set Initdata
 
-- Set Tg-Id
-
 - **DONE**
 
 - **Here To get Initdata and Tg-Id**
