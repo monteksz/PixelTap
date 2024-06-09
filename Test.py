@@ -88,7 +88,7 @@ def mainLoop(headers, auto_upgrade, account_number, color):
             time.sleep(1)
 
         while True:
-            for remaining in range(300, 0, -1):  # 5 minutes delay
+            for remaining in range(100, 0, -1):  # 5 minutes delay
                 print(f"Next claim in {remaining} seconds for all accounts", end="\r")
                 time.sleep(1)
 
